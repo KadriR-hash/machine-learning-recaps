@@ -1,3 +1,6 @@
+# DENSE NEURAL NETWORK
+
+
 # TensorFlow and tf.keras
 import tensorflow as tf
 from tensorflow import keras
@@ -96,4 +99,3 @@ num = get_number()
 image = test_images[num]
 label = test_labels[num]
 predict(model, image, label)
-
